@@ -1,0 +1,3 @@
+package com.aru_oi.cleanarchitecture.exception
+
+interface FeatureFailure
